@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word_selecter", "word_selecter\word_selecter.csproj", "{9B28CF63-AB0F-40F4-BC54-E55265B48861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B28CF63-AB0F-40F4-BC54-E55265B48861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B28CF63-AB0F-40F4-BC54-E55265B48861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B28CF63-AB0F-40F4-BC54-E55265B48861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B28CF63-AB0F-40F4-BC54-E55265B48861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
